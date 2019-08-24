@@ -9,7 +9,7 @@ import java.nio.channels.ServerSocketChannel;
 import java.nio.channels.SocketChannel;
 import java.util.Iterator;
 
-public class NioServer {
+public class NIOServer {
     public static void main(String[] args) throws IOException {
         System.out.println("服务器端已经被启动。。。。。。");
         //1、创建服务通道
