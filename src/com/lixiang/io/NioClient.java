@@ -6,7 +6,7 @@ import java.nio.ByteBuffer;
 import java.nio.channels.SocketChannel;
 import java.util.Date;
 
-public class NIOClient {
+public class NioClient {
     public static void main(String[] args) throws IOException {
         System.out.println("客户端已经启动。。。");
         //1、创建socket 通道
